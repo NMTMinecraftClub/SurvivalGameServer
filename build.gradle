@@ -1,8 +1,12 @@
-
-
-task setup(type: Copy) {
-  dependsOn ':SpongeSurvivalGames:jar'
+task copyJar(type: Copy) {
   from 'SpongeSurvivalGames/build/libs'
   into 'run/plugins'
 }
+
+copyJar.mustRunAfter ':SpongeSurvivalGames:jar'
+
+task setup << {}
+
+setup.dependsOn copyJar
+setup.dependsOn ':SpongeSurvivalGames:jar'
 
