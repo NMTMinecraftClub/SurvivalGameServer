@@ -95,4 +95,3 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-
