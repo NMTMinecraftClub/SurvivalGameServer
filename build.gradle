@@ -1,4 +1,8 @@
-task wrapper(type: Wrapper) {
-  gradleVersion = '2.5'
-  distributionUrl = "https://services.gradle.org/distributions/gradle-$gradleVersion-all.zip"
+
+
+task setup(type: Copy) {
+  dependsOn ':SpongeSurvivalGames:jar'
+  from 'SpongeSurvivalGames/build/libs'
+  into 'run/plugins'
 }
+

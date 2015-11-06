@@ -1,2 +1,4 @@
+include 'SpongeSurvivalGames'
+
 rootProject.name = 'SurvivalGameServer'
 
