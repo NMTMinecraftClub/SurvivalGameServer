@@ -53,7 +53,7 @@ worlds:
     alias: ''
     color: WHITE
     style: NORMAL
-    pvp: 'true'
+    pvp: 'false'
     scale: '1.0'
     respawnWorld: ''
     allowWeather: 'true'
@@ -62,12 +62,12 @@ worlds:
       ==: MVSpawnSettings
       animals:
         ==: MVSpawnSubSettings
-        spawn: 'true'
+        spawn: 'false'
         spawnrate: '-1'
         exceptions: []
       monsters:
         ==: MVSpawnSubSettings
-        spawn: 'true'
+        spawn: 'false'
         spawnrate: '-1'
         exceptions: []
     entryfee:
@@ -82,9 +82,9 @@ worlds:
     keepSpawnInMemory: 'true'
     spawnLocation:
       ==: MVSpawnLocation
-      x: 664.0
+      x: 0.0
       y: 4.0
-      z: 337.0
+      z: 0.0
       pitch: 0.0
       yaw: 0.0
     autoLoad: 'true'
