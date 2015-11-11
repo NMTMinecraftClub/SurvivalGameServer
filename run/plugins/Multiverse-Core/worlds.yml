@@ -91,14 +91,14 @@ worlds:
     bedRespawn: 'true'
     worldBlacklist: []
     environment: NORMAL
-    seed: '9035771292914792316'
+    seed: '7290260268928862321'
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
   map3:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: map3
     color: WHITE
     style: NORMAL
     pvp: 'true'
@@ -146,7 +146,7 @@ worlds:
   map2:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: map2
     color: WHITE
     style: NORMAL
     pvp: 'true'
@@ -194,7 +194,7 @@ worlds:
   map7:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: map7
     color: WHITE
     style: NORMAL
     pvp: 'true'
@@ -211,7 +211,7 @@ worlds:
         exceptions: []
       monsters:
         ==: MVSpawnSubSettings
-        spawn: 'true'
+        spawn: 'false'
         spawnrate: '-1'
         exceptions: []
     entryfee:
@@ -242,7 +242,7 @@ worlds:
   map6:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: map6
     color: WHITE
     style: NORMAL
     pvp: 'true'
@@ -259,7 +259,7 @@ worlds:
         exceptions: []
       monsters:
         ==: MVSpawnSubSettings
-        spawn: 'true'
+        spawn: 'false'
         spawnrate: '-1'
         exceptions: []
     entryfee:
@@ -290,7 +290,7 @@ worlds:
   map5:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: map5
     color: WHITE
     style: NORMAL
     pvp: 'true'
