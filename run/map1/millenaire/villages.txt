@@ -1,4 +1,0 @@
-Kurashiki;182/70/-198;gunji;japanese
-Maebashi;221/64/-1329;nogyo;japanese
-Samodhpur;824/72/-1259;indian_fort;hindi
-Jangipur;-315/68/-750;indian_fort;hindi
