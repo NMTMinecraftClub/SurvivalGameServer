@@ -1,0 +1,20 @@
+Colombières;-37/71/24;loneminer;norman
+Kewatabeer;418/62/-417;adivasifarm;hindi
+Akauni;622/73/-999;indiandesertedfarm;hindi
+Bagai Khurda;18/68/-894;sandblasted;hindi
+Tiwaripur;-618/65/-698;sandblasted;hindi
+Edzna;552/64/-1593;lonemayanmining;mayan
+Saint-Georges;-25/60/-1767;bandittower;norman
+Sept-Frères;-638/64/-1774;lonemill;norman
+Saint-Denis;-1237/75/-1784;loneminer;norman
+Auberge Sainte Anne;-1768/66/-2378;loneinn;norman
+Courseulles;-2316/62/-2629;abandonedtower;norman
+Asnières;-2921/66/-2567;lonemill;norman
+Saint-Charles;-3511/63/-2677;banditlair;norman
+Crèvecoeur;-4033/65/-2994;ruinedfarm;norman
+Saint-Charles;-4585/63/-3271;bandittower;norman
+Tiwaripur;-3321/64/-3879;loneshrine;hindi
+Ouilly;-3000/63/-3367;lonelumbermantaiga;norman
+Cauvicourt;-2377/64/-3447;bandittower;norman
+Rapilly;-5080/68/-3831;lonelumbermantaiga;norman
+Ghamahapur;-5657/63/-3656;adivasifarm;hindi

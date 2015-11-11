@@ -1,0 +1,9 @@
+generate_villages=false
+culture_reputation=hindi,0
+culture_language=hindi,0
+culture_reputation=japanese,111
+culture_language=japanese,0
+culture_reputation=mayan,0
+culture_language=mayan,0
+culture_reputation=norman,0
+culture_language=norman,0
