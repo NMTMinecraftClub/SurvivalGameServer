@@ -11,7 +11,7 @@ center:
   y: 68.0
   z: -5.0
 playerLimit: 58
-countdownTime: 20
+countdownTime: 60
 spawns:
 - ==: Vector
   x: 19.0

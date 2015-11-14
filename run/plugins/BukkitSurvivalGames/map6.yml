@@ -214,7 +214,7 @@ xmax: -751
 zmin: 780
 zmax: 1060
 deathmatchRadius: 25
-deathmatchTime: 30
+deathmatchTime: 60
 chests:
 - ==: Vector
   x: -962.0
